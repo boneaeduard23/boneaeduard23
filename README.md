@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eduard
+- 👀 I’m interested in Front End and Back End Development
+- 🌱 I’m currently learning Java
+- 📫 How to reach me https://www.taplink.cc/eduardbonea
